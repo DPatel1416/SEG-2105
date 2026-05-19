@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main(String [] args) {
-		System.out.println("Welcome to conflict-demo !");
+		System.out.println("Welcome to branch conflict-demo !");
 	}
 }
